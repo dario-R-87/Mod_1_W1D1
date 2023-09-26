@@ -1,0 +1,67 @@
+#logo{
+	width: 100%;	
+}
+
+#logo_cont {
+	width: 15%;
+	margin: 10px auto 0 auto;
+}
+	
+#sottotitolo{
+	background-color:#FFEFD5;
+	border-top: #FFA500 1px solid;
+	margin-top: 10px;
+	height: 4vh;
+}
+
+#sottotitolo h5{
+	color:#006400;
+	text-align: center;
+	margin: 1% 0 1% 0;
+}
+
+#main{
+	width: 70%;
+	margin: 5vh auto;
+}
+
+#titolo{
+	text-align:center;
+}
+
+#focaccia{
+	width: 100%;
+}
+
+#focaccia_cont{
+	width: 100%;
+}
+
+.focaccia{
+	color:#DCDCDC;
+	margin: 0;
+	text-align:center;
+}
+
+.feature{
+	margin: 1.5em 0 2em 0;	
+	border-left:#FFA500 3px solid;
+}
+
+.feature p {
+	margin:0 0 0 1em;
+}
+
+.first_p {
+	font-weight: bold;
+	color:#FF4500;
+}
+
+.type_desc{
+	margin-top: 2em;
+	border-bottom: #E6E6FA 1px solid;
+}
+
+.list_p {
+	padding-left: 50px;
+}
